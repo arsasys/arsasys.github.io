@@ -1,0 +1,1 @@
+window._tcbEnv = {"TCB_SERVICE_DOMAIN":"my-vue-app-7gjo3ghb85e059a5-1257173081.ap-shanghai.service.tcloudbase.com","TCB_ENV_ID":"my-vue-app-7gjo3ghb85e059a5","TCB_REGION":"ap-shanghai"};
